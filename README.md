@@ -15,11 +15,24 @@ I reckon that doing redteam, as well as certain paths of pentest from TryHackMe,
 It might help you understand what to look for, and/or form your 'investigative' plan a bit better for this room as you go. So, maybe this is the 'purple-team' sprinkle of the room.
 
 
+
+### Windows 🗔
+
+I'm positive that in the room you'll see the technologies you'd have to be familiar with before going in,  and I'm positive you'll have to be somewhat familiar with windows sysmon, event viewer, and you'll get introduced to other tools in there which you can get it in no time, however, *THM* does an excellent job at offering some level of *'refreshment'* to understand the necessary use of that tool for the room.
+
+
 ### As I said in the `.txt` file
 
 I checked other walkthroughs that did not contain the answer but the process, and my method might have varied from using one tool to using multiple tools to contrast data, and get to the same answer. 
 I think this method have helped me understand some of the material way better, as I take it as a 'investigating' along or even for pentesting paths I've seen it as a 'hack-along'. 
 
+
+
+
+------------------
+
+
+## Extras - *no need to read, just a personal 'yapping'*
 
 ### Rabbit holes 🐰
 
